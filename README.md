@@ -15,3 +15,4 @@ Until then, suffice it to say that I am the CEO, Editor, and Founder of a scienc
 
 ### GitHub Statistics
 ![Akhilesh's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=akhilesh-balaji&show_icons=true&theme=dark)
+![Top Langsuages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh-balaji&theme=dark)
