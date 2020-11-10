@@ -23,7 +23,7 @@ Until then, suffice it to say that I am the CEO, Editor, and Founder of a scienc
 <img align="left" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://www.halberesford.com/content/images/2018/07/null.png" width="1" height="1">
 
-### Social
+### Social Media I'm Present on
 <img align="left" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 <img src="https://www.halberesford.com/content/images/2018/07/null.png" width="1" height="1">
