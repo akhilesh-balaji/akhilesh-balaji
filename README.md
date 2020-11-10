@@ -8,4 +8,4 @@ My name is Akhilesh Balaji, and I have an interest in Science and Technology. I 
 - 💬 Ask me about science and technology
 - 📫 How to reach me: https://akhilesh-balaji.github.io/#contact
 - 😄 Motto: Time is infinite, as long as you know how to use it.
-- ⚡ Fun fact: There might be upto ∞ spacial dimensions hidden around you! To know more, visit [this](https://thegeekly.github.io/Issue%205/index.html) magazine issue.
+- ⚡ Fun fact: There might be upto ∞ spatial dimensions hidden around you! To know more, visit [this](https://thegeekly.github.io/Issue%205/index.html) magazine issue.
