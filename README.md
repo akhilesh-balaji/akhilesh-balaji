@@ -21,6 +21,7 @@ Until then, suffice it to say that I am the CEO, Editor, and Founder of a scienc
 [<img align="left" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>]()
 [<img align="left" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>]()
 [<img align="left" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>]()
+[<img src="https://www.halberesford.com/content/images/2018/07/null.png" width="1" height="1">]()
 [<img align="left" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]()
 [<img align="left" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>]()
 [<img src="https://www.halberesford.com/content/images/2018/07/null.png" width="1" height="1">]()
