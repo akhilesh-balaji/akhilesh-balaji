@@ -39,5 +39,5 @@ Until then, suffice it to say that I am the CEO, Editor, and Founder of a scienc
 ### GitHub Statistics
 [![Akhilesh's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=akhilesh-balaji&show_icons=true&theme=greywhite)]()
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh-balaji&theme=greywhite&layout=compact)]()
-[![My Best Repo](https://github-readme-stats.vercel.app/api/pin/?username=akhilesh-balaji&repo=github-readme-stats)]()
+[![My Best Repo](https://github-readme-stats.vercel.app/api/pin/?username=akhilesh-balaji&theme=greywhite&repo=Textylic)]()
 
