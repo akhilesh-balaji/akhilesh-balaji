@@ -1,11 +1,11 @@
-### 👋 `Salute plurimam dicit. Si vales, bene est, ego valeo.`
+### 👋 `Greetings, Homo Sapiens.`
 
 My name is `Akhilesh Balaji`, and I have an interest in `Science and Technology`. I also dabble in graphic design, at times. I currently study at `Neev Academy, India`. I have started a science magazine called The Geekly, and also own a science-related `YouTube Channel`. I am also officially proficient in `Python`, a programming language. I enjoy science and technology, and I hope to learn many new things about the mysteries of the universe that nature hides from us, and spread this knowledge to others as well.
 
 - 🔭 I’m currently working on an application called [`Textylic`](https://akhilesh-balaji.github.io/Textylic/).
 - 🌱 I’m currently learning how to develop a React app using `React.js`
 - 💬 Ask me about science and technology
-- 😄 Motto: Time is infinite, as long as you know how to use it.
+- 😄 Motto: “He who knows all the answers has not been asked all the questions.”
 
 ***
 
