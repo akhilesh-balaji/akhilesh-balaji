@@ -1,6 +1,6 @@
 ### 👋 `Greetings, Homo Sapiens.`
 
-My name is `Akhilesh Balaji`, and I have an interest in `Science and Technology`. I also dabble in graphic design, at times. I currently study at `Neev Academy, India`. I have started a science magazine called The Geekly, and also own a science-related `YouTube Channel`. I am also officially proficient in `Python`, a programming language. I enjoy science and technology, and I hope to learn many new things about the mysteries of the universe that nature hides from us, and spread this knowledge to others as well.
+I'm `Akhilesh Balaji`, a grade 10 student studying at Neev Academy, India. As a `science and technology enthusiast`, I'm passionate about scientific literacy, and run a science magazine, `The Geekly`, to this effect. I believe that answering `fundamental questions about the universe` should be one of on `humanity's priority list`. The quest for knowledge will never truly be over, but as time and science progress, the gap between our questions and their answers will be closed. Summed up in the insightful words of the Chinese philosopher Confucius, `“He who knows all the answers has not been asked all the questions.”`
 
 - 🔭 I’m currently working on an application called [`Textylic`](https://akhilesh-balaji.github.io/Textylic/).
 - 🌱 I’m currently learning how to develop a React app using `React.js`
