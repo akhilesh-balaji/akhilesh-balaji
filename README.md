@@ -1,6 +1,6 @@
 ### 👋 `Greetings, Homo Sapiens.`
 
-I'm `Akhilesh Balaji`, a high school student studying at Neev Academy, India. As a `science and technology enthusiast`, I'm passionate about scientific literacy, and run a science magazine, `The Geekly`, to this effect. I believe that answering `fundamental questions about the universe` should be one of on `humanity's priority list`. The quest for knowledge will never truly be over, but as time and science progress, the gap between our questions and their answers will be closed. Summed up in the insightful words of the Chinese philosopher Confucius, `“He who knows all the answers has not been asked all the questions.”`
+I'm `Akhilesh Balaji`, a student. As a `science and technology enthusiast`, I'm passionate about scientific literacy, and run a science magazine, `The Geekly`, to this effect. I believe that answering `fundamental questions about the universe` should be one of on `humanity's priority list`. The quest for knowledge will never truly be over, but as time and science progress, the gap between our questions and their answers will be closed. Summed up in the insightful words of the Chinese philosopher Confucius, `“He who knows all the answers has not been asked all the questions.”`
 
 - 🔭 I’m currently working on an application called [`Textylic`](https://akhilesh-balaji.github.io/Textylic/).
 - 🌱 I’m currently learning how to develop a React app using `React.js`
