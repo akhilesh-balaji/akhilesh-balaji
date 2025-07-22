@@ -1,3 +1,5 @@
+`[last edit to README on 07/22/2025 14:17 GMT]`
+
 _Intrigued by explorations of the intersection between computer science and physics, mathematics, and culture._
 
 Motto: கற்றது கைமண் அளவு, கல்லாதது உலகளவு / What is learned is but a handful of earth; what remains unknown is as vast as the cosmos. —Auvaiyār
