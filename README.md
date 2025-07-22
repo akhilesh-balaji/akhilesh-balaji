@@ -1,3 +1,8 @@
+_Passionate about exploring the intersection of computer science with physics, mathematics, and culture._
+
+Motto: கற்றது கைமண் அளவு, கல்லாதது உலகளவு / What is learned is but a handful of earth; what remains unknown is as vast as the cosmos. —Auvaiyār
+
+<!---
 ### 👋 `Greetings, Homo Sapiens.`
 
 I'm `Akhilesh Balaji`, a student. As a `science and technology enthusiast`, I'm passionate about scientific literacy, and run a science magazine, `The Geekly`, to this effect. I believe that answering `fundamental questions about the universe` should be one of on `humanity's priority list`. The quest for knowledge will never truly be over, but as time and science progress, the gap between our questions and their answers will be closed. Summed up in the insightful words of the Chinese philosopher Confucius, `“He who knows all the answers has not been asked all the questions.”`
@@ -12,11 +17,13 @@ I'm `Akhilesh Balaji`, a student. As a `science and technology enthusiast`, I'm 
 ### My Work
 To have a look at all my work, visit my website at [`https://akhilesh-balaji.github.io/`](https://akhilesh-balaji.github.io/)
 Until then, suffice it to say that I am the CEO, Editor, and Founder of a science magazine called [`The Geekly`](www.thegeekly.net), the creator of a notes app for the 22nd century, [`Textylic`](https://akhilesh-balaji.github.io/Textylic/), and own a science related [`YouTube Channel`](https://www.youtube.com/channel/UCameFaM8x1vL_onYtV8ONdw). I also dabble in graphic design at times. Have a look at my graphic design experiments [`here`](https://www.behance.net/akhileshba4a03)
+--->
 
 ### Tools of the Trade
 [<img src='https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white' />]()
 [<img src='https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white' />]()
 [<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' />]()
+[<img src='https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white' />]()
 [<img src='https://img.shields.io/badge/inkscape%20-%23121011.svg?&style=for-the-badge&logo=inkscape&logoColor=%FAFBFC' />]()
 [<img src='https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white' />]()
 [<img src='https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white' />]()
@@ -40,7 +47,7 @@ Until then, suffice it to say that I am the CEO, Editor, and Founder of a scienc
 
 ### Reach out to me
 [<img align="left" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/akhilesh-balaji-6027651a4/)
-[<img align="left" src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCameFaM8x1vL_onYtV8ONdw)
+<!---[<img align="left" src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCameFaM8x1vL_onYtV8ONdw)--->
 [<img align="left" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:akhilesh.balaji.bangalore@gmail.com?subject=%7BYour%20subject%20here%7D)
 [<img src="https://www.halberesford.com/content/images/2018/07/null.png" width="1" height="1">]()
 
