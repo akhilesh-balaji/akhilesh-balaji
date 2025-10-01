@@ -4,14 +4,14 @@ _Intrigued by explorations of the intersection between computer science and phys
 
 Motto: கற்றது கைமண் அளவு, கல்லாதது உலகளவு / What is learned is but a handful of earth; what remains unknown is as vast as the cosmos. —Auvaiyār
 
-[<img src='https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white' />]()
-[<img src='https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white' />]()
 [<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' />]()
 [<img src='https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white' />]()
 [<img src='https://img.shields.io/badge/inkscape%20-%23121011.svg?&style=for-the-badge&logo=inkscape&logoColor=%FAFBFC' />]()
 [<img src='https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white' />]()
 [<img src='https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white' />]()
 [<img src='https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white' />]()
+[<img src='https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white' />]()
+[<img src='https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white' />]()
 [<img src='https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' />]()
 [<img src='https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white' />]()
 [<img src='https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white' />]()
